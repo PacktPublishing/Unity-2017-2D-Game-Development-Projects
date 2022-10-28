@@ -33,7 +33,3 @@ In order to get the most out of this book, it's preferable that you have had som
 * [2D Game Programming in Unity [Video]](https://www.packtpub.com/game-development/2d-game-programming-unity-video?utm_source=github&utm_medium=repository&utm_campaign=9781787120921)
 
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786460271">https://packt.link/free-ebook/9781786460271 </a> </p>
